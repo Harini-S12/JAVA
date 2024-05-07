@@ -14,7 +14,7 @@ public class Main {
                     count++;
                     a[j] =-1;
                     }
-                }
+                }   
             if (count > 1)
                 System.out.println("Duplicate element: " + a[i]);
             }
